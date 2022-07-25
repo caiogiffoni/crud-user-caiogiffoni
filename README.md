@@ -22,7 +22,7 @@ Sem figma para essa aplicação
 
 - [X] NodeJs
 - [X] Express
-- [X] TyoeORM
+- [X] TypeORM
 - [X] Yup 
 - [X] Tests Jest
 - [X] Docker / Docker compose
